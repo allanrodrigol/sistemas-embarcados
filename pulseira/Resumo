@@ -1,0 +1,7 @@
+Alunos: André Melo, Eduardo Garcia, Igor Volles.
+
+Objetivo: criar uma pulseira para medir sinais vitais de idosos e enviar os dados para um sistema de monitoramento remoto.
+
+Recursos: NodeMCU, wifi, servidor na nuvem, sistema web para monitoramento.
+
+Linguagens preferenciais: C/C++ para embarcado, Java para o sistema web.
