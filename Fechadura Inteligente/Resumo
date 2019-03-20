@@ -1,0 +1,6 @@
+Equipe: Lucas Trevizan, Phelipe Hass, Augusto Amaral
+
+Foco: Fazer uma fechadura inteligente que libere/bloquei o acesso a determinada porta através do reconhecimento biometrico/facial do
+usuário.
+
+Equipamentos: NodeMCU, relé, protoboard, fechadura elétrica, sensor de digital, sistema web para gerenciamento dos cadastros.
