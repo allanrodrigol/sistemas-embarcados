@@ -8,7 +8,7 @@ int p;
 void setup () {
   Serial.begin(9600);
   
-  s.attach(SERVO);
+  s.attach(SERVO_MOTOR);
   s.write(0);
 }
  
