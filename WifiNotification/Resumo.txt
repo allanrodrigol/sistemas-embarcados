@@ -1,7 +1,0 @@
-Alunos: Christian L. Tusset, Eduardo Denzer, Romano de Conto, Ederson Lopes e Eliza Schroeder.
-
-Objetivo: Notificar os usuários que conectaram no Wifi de acordo com determinada condição.
-
-Recursos: NodeMCU, Wifi, Servidor Local com a base de dados dos clientes.
-
-Linguagens: C/C++ para embarcado (arduino), Java para o sistema web.
